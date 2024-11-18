@@ -1,0 +1,74 @@
+What are hardware and software?
+List five major hardware components of a computer.
+What does the acronym “CPU” stand for?
+What unit is used to measure CPU speed?
+What is a bit? What is a byte?
+What is memory for? What does RAM stand for? Why is memory called RAM?
+What unit is used to measure memory size?
+What unit is used to measure disk size?
+What is the primary difference between memory and a storage device?
+What language does the CPU understand?
+What is an assembly language?
+What is an assembler?
+What is a high-level programming language?
+What is a source program?
+What is an interpreter?
+What is a compiler?
+What is the difference between an interpreted language and a compiled language?
+What is an operating system? List some popular operating systems.
+What are the major responsibilities of an operating system?
+What are multiprogramming, multithreading, and multiprocessing?
+Who invented Java? Which company owns Java now?
+What is a Java applet?
+What programming language does Android use?
+What is the Java language specification?
+What does JDK stand for?
+What does IDE stand for?
+Are tools like NetBeans and Eclipse different languages from Java, or are they
+dialects or extensions of Java?
+
+
+Character              Name                                        Description
+    {}                 Opening and closing braces                  Denote a block to enclose statements.
+    ()                 Opening and closing parentheses             Used with methods.
+    []                 Opening and closing brackets                Denote an array.
+    //                 Double slashes                              Precede a comment line.
+    ""                 Opening and closing quotation marks         Enclose a string (i.e., sequence of characters).
+    ;                  Semicolon                                   Mark the end of a statement.
+
+
+
+What is a keyword? List some Java keywords.
+Is Java case sensitive? What is the case for Java keywords?
+What is a comment? Is the comment ignored by the compiler? How do you denote a
+comment line and a comment paragraph?
+What is the statement to display a string on the console?
+Show the output of the following code:
+        public class Test {
+          public static void main(String[] args) {
+            System.out.println("3.5 * 4 / 2 – 2.5 is ");
+               System.out.println(3.5 * 4 / 2 – 2.5);
+           }
+        }   
+
+
+What is the Java source filename extension, and what is the Java bytecode filename
+extension?
+What are the input and output of a Java compiler?
+What is the command to compile a Java program?
+What is the command to run a Java program?
+What is the JVM?
+Can Java run on any machine? What is needed to run Java on a computer?
+If a NoClassDefFoundError occurs when you run a program, what is the cause of
+the error?
+If a NoSuchMethodError occurs when you run a program, what is the cause of the
+error?
+What are syntax errors (compile errors), runtime errors, and logic errors?
+Give examples of syntax errors, runtime errors, and logic errors.
+If you forget to put a closing quotation mark on a string, what kind error will be
+raised?
+If your program needs to read integers, but the user entered strings, an error would
+occur when running this program. What kind of error is this?
+Suppose you write a program for computing the perimeter of a rectangle and you
+mistakenly write your program so that it computes the area of a rectangle. What kind
+of error is this?
